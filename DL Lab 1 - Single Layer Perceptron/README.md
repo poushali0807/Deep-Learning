@@ -67,6 +67,8 @@ DL Lab 1 - Single Layer Perceptron
 
 ## Dependencies
 
+The notebook was developed and executed using **Google Colab**.
+
 The following Python libraries are required:
 
 - numpy
@@ -87,7 +89,7 @@ pip install -r requirements.txt
 
 1. Clone or download the repository.
 2. Install the required dependencies.
-3. Open the Jupyter Notebook (`lab1.ipynb`).
+3. Open the notebook (`lab1.ipynb`) in Google Colab.
 4. Run all cells sequentially.
 5. The notebook will:
    - Load and preprocess the dataset
