@@ -130,4 +130,4 @@ The experiment generates the following plots:
 
 ## Conclusion
 
-The Single Layer Perceptron successfully learned to classify banknotes into authentic and forged categories. The experiment demonstrates the importance of weight updates, bias adjustment, and learning rate in the perceptron learning process. The generated visualizations provide insight into model convergence and classification performance.
+The SLP successfully learned to classify banknotes into authentic and forged categorieS, the experiment demonstrates importance of weight updates, bias adjustment and lr in the perceptron learning process, the generated visualizations provides insights into model convergence and performance.
